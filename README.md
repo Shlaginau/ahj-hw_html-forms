@@ -1,4 +1,4 @@
-[![Build status](https://github.com/Shlaginau/ahj-hw_html-forms/actions/workflows/web.yml/badge.svg)
+![Build status](https://github.com/Shlaginau/ahj-hw_html-forms/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "Работа с HTML-формами"
 
